@@ -1,0 +1,12 @@
+
+hScorePack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+highscore
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1

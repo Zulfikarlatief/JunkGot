@@ -1,0 +1,33 @@
+
+menuButton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+playBtn
+  rotate: false
+  xy: 1, 1
+  size: 548, 182
+  orig: 548, 182
+  offset: 0, 0
+  index: -1
+highscoreBtn
+  rotate: false
+  xy: 551, 52
+  size: 132, 131
+  orig: 132, 131
+  offset: 0, 0
+  index: -1
+settingBtn
+  rotate: false
+  xy: 685, 52
+  size: 132, 131
+  orig: 132, 131
+  offset: 0, 0
+  index: -1
+achivementBtn
+  rotate: false
+  xy: 819, 52
+  size: 132, 131
+  orig: 132, 131
+  offset: 0, 0
+  index: -1

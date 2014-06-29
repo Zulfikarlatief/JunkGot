@@ -1,0 +1,103 @@
+
+menuPack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bgMenu
+  rotate: false
+  xy: 1, 214
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+board
+  rotate: false
+  xy: 1, 1
+  size: 417, 211
+  orig: 417, 211
+  offset: 0, 0
+  index: -1
+btnPlay
+  rotate: false
+  xy: 483, 878
+  size: 408, 136
+  orig: 408, 136
+  offset: 0, 0
+  index: -1
+template
+  rotate: false
+  xy: 483, 767
+  size: 353, 109
+  orig: 353, 109
+  offset: 0, 0
+  index: -1
+btnAchievement
+  rotate: false
+  xy: 893, 906
+  size: 99, 108
+  orig: 99, 108
+  offset: 0, 0
+  index: -1
+btnHighScore
+  rotate: false
+  xy: 483, 657
+  size: 99, 108
+  orig: 99, 108
+  offset: 0, 0
+  index: -1
+btnOption
+  rotate: false
+  xy: 483, 547
+  size: 99, 108
+  orig: 99, 108
+  offset: 0, 0
+  index: -1
+no
+  rotate: false
+  xy: 584, 703
+  size: 126, 62
+  orig: 126, 62
+  offset: 0, 0
+  index: -1
+yes
+  rotate: false
+  xy: 584, 642
+  size: 127, 59
+  orig: 127, 59
+  offset: 0, 0
+  index: -1
+musicOn
+  rotate: false
+  xy: 420, 155
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+btnInfo
+  rotate: false
+  xy: 483, 488
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+soundOn
+  rotate: false
+  xy: 584, 583
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+musicOff
+  rotate: false
+  xy: 712, 709
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+soundOff
+  rotate: false
+  xy: 420, 97
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1

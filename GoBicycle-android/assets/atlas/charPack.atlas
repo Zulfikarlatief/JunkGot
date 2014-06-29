@@ -1,0 +1,47 @@
+
+charPack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+h1c
+  rotate: false
+  xy: 1, 1
+  size: 113, 213
+  orig: 113, 213
+  offset: 0, 0
+  index: -1
+h1a
+  rotate: false
+  xy: 116, 1
+  size: 113, 213
+  orig: 113, 213
+  offset: 0, 0
+  index: -1
+h1b
+  rotate: false
+  xy: 231, 1
+  size: 113, 213
+  orig: 113, 213
+  offset: 0, 0
+  index: -1
+h2a
+  rotate: false
+  xy: 346, 54
+  size: 85, 160
+  orig: 85, 160
+  offset: 0, 0
+  index: -1
+h2c
+  rotate: false
+  xy: 433, 54
+  size: 85, 160
+  orig: 85, 160
+  offset: 0, 0
+  index: -1
+h2b
+  rotate: false
+  xy: 520, 54
+  size: 85, 160
+  orig: 85, 160
+  offset: 0, 0
+  index: -1

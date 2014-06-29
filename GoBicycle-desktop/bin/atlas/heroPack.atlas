@@ -1,0 +1,26 @@
+
+heroPack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hero chose
+  rotate: false
+  xy: 1, 15
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+hero chose2
+  rotate: false
+  xy: 75, 15
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+5.buton (selected hero)
+  rotate: false
+  xy: 1, 1
+  size: 75, 12
+  orig: 75, 12
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,40 @@
+
+infoScreen.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+infoB
+  rotate: false
+  xy: 1, 161
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+infoA
+  rotate: false
+  xy: 483, 161
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+next
+  rotate: false
+  xy: 1, 81
+  size: 144, 78
+  orig: 144, 78
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 1, 1
+  size: 144, 78
+  orig: 144, 78
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 147, 98
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1

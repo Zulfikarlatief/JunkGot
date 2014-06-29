@@ -1,0 +1,114 @@
+
+riverScreen.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+map3c
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+map1c
+  rotate: false
+  xy: 483, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+
+riverScreen2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+map1d
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+map3b
+  rotate: false
+  xy: 483, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+
+riverScreen3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+map2d
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+map3d
+  rotate: false
+  xy: 483, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+
+riverScreen4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+map3a
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+map2a
+  rotate: false
+  xy: 483, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+
+riverScreen5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+map2b
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+map1a
+  rotate: false
+  xy: 483, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+
+riverScreen6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+map1b
+  rotate: false
+  xy: 1, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+map2c
+  rotate: false
+  xy: 483, 1
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1

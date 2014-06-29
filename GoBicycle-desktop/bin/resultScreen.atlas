@@ -1,0 +1,33 @@
+
+resultScreen.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+overScreen
+  rotate: false
+  xy: 1, 101
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+batu
+  rotate: false
+  xy: 483, 562
+  size: 143, 339
+  orig: 143, 339
+  offset: 0, 0
+  index: -1
+sampah1
+  rotate: false
+  xy: 1, 1
+  size: 123, 98
+  orig: 123, 98
+  offset: 0, 0
+  index: -1
+sampah2
+  rotate: false
+  xy: 483, 480
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
